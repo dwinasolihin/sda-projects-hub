@@ -8,7 +8,7 @@ The place where three aspiring engineers learn about new things in the software 
 - Fundamentals
     - Push, pull, merge, rebase
     - Want to use gh-pages? Here's a quick guide to help out with setting up! 
-    - [gh pages](https://www.thinkful.com/learn/a-guide-to-using-github-pages/)
+    	- [gh pages](https://www.thinkful.com/learn/a-guide-to-using-github-pages/)
 
 ### Python
 
