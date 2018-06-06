@@ -7,6 +7,8 @@ The place where three aspiring engineers learn about new things in the software 
 ### Git
 - Fundamentals
     - Push, pull, merge, rebase
+    - Want to use gh-pages? Here's a quick guide to help out with setting up! 
+    - [gh pages](https://www.thinkful.com/learn/a-guide-to-using-github-pages/)
 
 ### Python
 
@@ -77,6 +79,8 @@ The place where three aspiring engineers learn about new things in the software 
 ### Go
 
 ### C/C++
+- Switching from Java to C++ (a true struggle of mine)
+	-[C++ 4 Java Programmers](http://cse.unl.edu/~choueiry/S13-235/files/Cpp4java.pdf)
 
 ### Databases
 
@@ -87,3 +91,7 @@ The place where three aspiring engineers learn about new things in the software 
 ### Operating Systems
 
 ### Hardware/Embedded Systems
+
+### Responsive Web Design 
+- Why does it matter? (because it really does)
+	- [Responsive design](http://alistapart.com/article/dao)
