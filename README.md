@@ -4,6 +4,11 @@ The place where three aspiring engineers learn about new things in the software 
 
 ## Technologies
 
+### Linux Command Line Interface
+- [Crash course](http://linuxcommand.org/)
+- should learn a bit of this to use Git: navigate through files using terminal
+- For Windows users, don't use Windows LOL. Jk, go [here](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/)
+
 ### Git
 - Fundamentals
     - Push, pull, merge, rebase
