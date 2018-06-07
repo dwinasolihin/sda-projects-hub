@@ -115,4 +115,9 @@ The place where three aspiring engineers learn about new things in the software 
 ### Responsive Web Design
 - Why does it matter? (because it really does)
 	- [Responsive design](http://alistapart.com/article/dao)
-- Time to rethink how pages should be divided -> use [CSS Grid Layout](https://gridbyexample.com/examples/)
+- Time to rethink how pages should be divided -> use 
+	- [CSS Grid Layout](https://gridbyexample.com/examples/)
+- Play around with Flexbox
+	- [Flexbox Playerground](https://codepen.io/enxaneta/full/adLPwv)
+	- [Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+	
