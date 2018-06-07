@@ -7,7 +7,7 @@ The place where three aspiring engineers learn about new things in the software 
 ### Git
 - Fundamentals
     - Push, pull, merge, rebase
-    - Want to use gh-pages? Here's a quick guide to help out with setting up! 
+    - Want to use gh-pages? Here's a quick guide to help out with setting up!
     	- [gh pages](https://www.thinkful.com/learn/a-guide-to-using-github-pages/)
 
 ### Python
@@ -63,9 +63,10 @@ The place where three aspiring engineers learn about new things in the software 
 - Fundamentals
     - Let's do the ECMAScript 2015 (ES6) dialect and up
     - The only supported language that lives in web browsers
-    - Syntactic sugar: default parameters, arrow functions, promises, scoped variables (`lets` and `const`), functional programming (`map`, `reduce`, `forEach`)
+    - Syntactic sugar: default parameters, arrow functions, promises, scoped variables (`let` and `const`), functional programming (`map`, `reduce`, `forEach`)
+    - Asynchronous vs Synchronous programming
     - [Crash course](https://javascript.info/)
-- Frontend frameworks (lives in the browser)
+- Frontend (client-side) frameworks (lives in the browser)
     - [React by Facebook](https://reactjs.org/)
     - [AngularJS by Google](https://angularjs.org/)
     - [Vue.js](https://vuejs.org/)
@@ -75,6 +76,13 @@ The place where three aspiring engineers learn about new things in the software 
 - Web frameworks
     - [Sails.js](https://sailsjs.com/) (full-stack)
     - [Express.js](http://expressjs.com/) (server-side)
+- State management containers
+    - [Redux](https://redux.js.org/)
+    - [Breeze.js](http://www.getbreezenow.com/breezejs)
+
+### Server-Client API Helpers
+- Query languages
+    - [GraphQL](https://graphql.org/), used to unify API communications between server and client
 
 ### Go
 
@@ -82,7 +90,19 @@ The place where three aspiring engineers learn about new things in the software 
 - Switching from Java to C++ (a true struggle of mine)
 	-[C++ 4 Java Programmers](http://cse.unl.edu/~choueiry/S13-235/files/Cpp4java.pdf)
 
-### Databases
+### Database and Caching Stores
+- Relational SQL databases
+    - [PostgreSQL](https://www.postgresql.org/)
+    - [MySQL](https://www.mysql.com/)
+    - [MariaDB](https://mariadb.org/), pretty much MySQL without Oracle's shenanigans
+    - [SQLite](https://www.sqlite.org/index.html) (for learning)
+- NoSQL (Not-Only SQL) databases
+    - [MongoDB](https://www.mongodb.com/)
+    - [Apache Cassandra](http://cassandra.apache.org/)
+- In-memory stores
+    - [Redis](https://redis.io/), used for caching usually
+    - [Memcached](https://memcached.org/), devs tend to use Redis nowadays tho, but really good to be aware of it
+
 
 ### Data Structures and Algorithms
 
@@ -92,6 +112,7 @@ The place where three aspiring engineers learn about new things in the software 
 
 ### Hardware/Embedded Systems
 
-### Responsive Web Design 
+### Responsive Web Design
 - Why does it matter? (because it really does)
 	- [Responsive design](http://alistapart.com/article/dao)
+- Time to rethink how pages should be divided -> use [CSS Grid Layout](https://gridbyexample.com/examples/)
