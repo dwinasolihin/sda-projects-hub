@@ -113,6 +113,17 @@ The place where three aspiring engineers learn about new things in the software 
 
 ### Distributed Systems
 
+### Virtualization, Containerization, Orchestration, and the Dev-Ops Culture
+- [Introduction to Virtualization and Containerization](https://medium.freecodecamp.org/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b)
+- Containerization
+    - [Docker](https://www.zdnet.com/article/what-is-docker-and-why-is-it-so-darn-popular), be very familiar with this, it's used pretty much everywhere now :)
+- Orchestration
+    - [Kubernetes](https://www.redhat.com/en/topics/containers/what-is-kubernetes)
+    - [Nomad](https://www.nomadproject.io/)
+- Deployment and Infrastrcture
+    - [Ansible](https://www.ansible.com/overview/it-automation), helps software to be installed in the cloud
+    - [Terraform](https://www.terraform.io/), create your cloud infrastructure with code
+
 ### Operating Systems
 
 ### Hardware/Embedded Systems
@@ -120,9 +131,8 @@ The place where three aspiring engineers learn about new things in the software 
 ### Responsive Web Design
 - Why does it matter? (because it really does)
 	- [Responsive design](http://alistapart.com/article/dao)
-- Time to rethink how pages should be divided -> use 
+- Time to rethink how pages should be divided -> use
 	- [CSS Grid Layout](https://gridbyexample.com/examples/)
 - Play around with Flexbox
 	- [Flexbox Playerground](https://codepen.io/enxaneta/full/adLPwv)
 	- [Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-	
